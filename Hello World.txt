@@ -1,5 +1,5 @@
-print("Hello world")
-print("Hello everybody")
-print("Hello world again")
-print("Where is my repo?")
-print("Hello")
+print("Hello world");
+print("Hello everybody");
+print("Hello world again");
+print("Where is my repo?");
+print("Hello");
